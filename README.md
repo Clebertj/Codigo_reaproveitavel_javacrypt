@@ -1,0 +1,2 @@
+# Codigo_reaproveitavel_javacrypt
+Codigo_reaproveitavel_js
