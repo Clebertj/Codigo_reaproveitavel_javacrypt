@@ -1,0 +1,5 @@
+var repete = 1;
+while(repete <= 100){
+	alert("Mensagem: " + repete);
+	repete = repete + 1;
+}
